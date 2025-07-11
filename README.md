@@ -11,15 +11,6 @@
 
 ---
 
-## ACADEMIC DETAILS
-
-| Year | Examination | Institute | CGPA/Marks(%) |
-|------|-------------|-----------|---------------|
-| 2022-2026 | B.Tech (Computer Science Engineering) | Graphic Era Hill University, Dehradun | 9.1/10 |
-| 2022 | XII | Sri Guru Ram Rai Patel School, Dehradun | 96.5% |
-| 2020 | X | Jaunsar Public School, Dehradun | 97% |
-
----
 
 ## PROJECTS
 
