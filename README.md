@@ -92,13 +92,6 @@ I'm a passionate Computer Science Engineering student with a strong foundation i
 - 🛠️ Symbol table management and comprehensive error handling
 - 📋 Supports basic data types, control structures, and functions
 
-### 🏥 [Hospital Management System](https://github.com/UnicodeAnshi/hospital-management)
-**Tech Stack**: Java, MySQL, Swing, JDBC
-- 📊 Handles 1000+ patient records with real-time updates
-- 🔐 Role-based access control for different user types
-- 📱 Intuitive GUI with advanced search and filter capabilities
-- 📈 Automated report generation and inventory management
-
 ### 📊 [YouTube Sentiment Analyzer](https://github.com/UnicodeAnshi/youtube-sentiment-analysis)
 **Tech Stack**: Python, ML, Pandas, NumPy, NLP, YouTube API
 - 🎯 **92% accuracy** in sentiment classification
@@ -147,28 +140,11 @@ I'm a passionate Computer Science Engineering student with a strong foundation i
 
 - 🇮🇳 **Hindi** - Native
 - 🇺🇸 **English** - Fluent  
-- 🇮🇳 **Punjabi** - Conversational
 
 ---
 
-## 🎯 Current Focus
 
-```python
-class AnshikaSharma:
-    def __init__(self):
-        self.name = "Anshika Sharma"
-        self.role = "Computer Science Engineering Student"
-        self.languages = ["Python", "Java", "C++", "JavaScript", "TypeScript"]
-        self.interests = ["Machine Learning", "Full Stack Development", "System Programming"]
-        self.current_focus = ["Deep Learning", "Cloud Computing", "Open Source"]
-        self.fun_fact = "I love creating technology solutions that make a real difference!"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
 
-me = AnshikaSharma()
-me.say_hi()
-```
 
 ---
 
