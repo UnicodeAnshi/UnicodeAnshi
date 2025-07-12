@@ -101,19 +101,6 @@ I'm a passionate Computer Science Engineering student with a strong foundation i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnicodeAnshi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnicodeAnshi&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnicodeAnshi&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
@@ -128,13 +115,7 @@ I'm a passionate Computer Science Engineering student with a strong foundation i
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnicodeAnshi&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🌐 Languages I Speak
 
